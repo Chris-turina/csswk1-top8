@@ -1,0 +1,19 @@
+.profile-img {
+  width: 100px;
+  height: 200px;
+}
+
+.online-img {
+  width: 10%;
+}
+
+.row1, .row2 {
+  display: inline-block;
+  column-count: 4;
+  text-align: center;
+
+}
+
+.friend {
+
+}

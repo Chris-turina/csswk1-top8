@@ -1,19 +1,46 @@
 .profile-img {
   width: 100px;
-  height: 200px;
+  height: 100px;
+  border: 2px solid blue;
 }
 
 .online-img {
-  width: 10%;
+  width: 90px;
 }
 
-.row1, .row2 {
-  display: inline-block;
+.row {
   column-count: 4;
+  column-width: 25%;
   text-align: center;
 
 }
 
 .friend {
+  padding: 1%;
+  color: blue;
+}
 
+.header1 {
+  background-color: #edbd65;
+  color: #ba8a34;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.red {
+  color: red;
+}
+
+.footer {
+  float: right;
+  margin-right: 70px;
+}
+
+.header2 {
+  padding-left: 10px;
+}
+
+.everything {
+  margin: 70px;
 }
